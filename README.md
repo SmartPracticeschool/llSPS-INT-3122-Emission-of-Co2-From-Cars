@@ -39,4 +39,7 @@ particular car.
 1. The details are:
    - Username: admin
    - Password: admin
+### License
+- This project is licensed by Apache 2.0 
+
 
