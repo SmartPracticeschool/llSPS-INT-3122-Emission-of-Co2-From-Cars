@@ -3,6 +3,15 @@ The Title itself indicates that it is about Carbondioxide emissions.Yes,The amou
 accounts for about 20% of total CO2 emissions.To find out the Emission of Co2 from a particular Car,we build a model to predict the co2 emission 
 based on Some features like make,model year,cylinders,engine,Previous co2 emission values,fuel_comb type and other.
 
+#### Table Of Contents
+- [Emission Of Co2 From Cars](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#emission-of-co2-from-cars)
+- [Motivation](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#motivation)
+- [code style](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#code-style)
+- [Screenshots](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#screenshots)
+- [Features](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#features)
+- [How to use?](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#how-to-use)
+- [License](https://github.com/SmartPracticeschool/llSPS-INT-3122-Emission-of-Co2-From-Cars/blob/master/README.md#license)
+
 ### Motivation
 we as a team done this project to know our learnings in Machine Learning and to complete our Internship in Smartbridge which is a good platform to 
 learn different courses.
@@ -39,6 +48,7 @@ particular car.
 1. The details are:
    - Username: admin
    - Password: admin
+
 ### License
 - This project is licensed by Apache 2.0 
 
